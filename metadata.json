@@ -1,0 +1,5 @@
+{
+  "name": "PortalMaze",
+  "description": "A strategic grid-based puzzle game featuring teleportation portals and wall-breaking mechanics. Includes a level editor and pathfinding-based scoring.",
+  "requestFramePermissions": []
+}
